@@ -5,7 +5,7 @@
 - this is more of a demonstration than anything
 - it aims to show what needs to be done for kubectl to work inside a pod to talk to its own cluster
 - it generates kube config (`.kube/config`) with kubectl itself
-- it uses minikube and terraform to codify things to bd deployed
+- it uses minikube and terraform to codify things to be deployed
 
 ## How to
 
